@@ -41,6 +41,8 @@ private String findTotalTripLength(int distanceOfFirstTrip, int distanceOfSecond
 
 /**
 Create a method that specifies the city name and temperature. where we returned a String but pass a int variable.
+*
+* @param temperature of the city.
 */
 private String createWeatherMessage(int temperature){
   return "Welcome to Sun Francisco where the temperature is " + temperature + "F";

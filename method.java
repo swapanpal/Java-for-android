@@ -26,6 +26,15 @@ private int deductPoints(int pointsUsed){
   return numberOfPoints;
 }
 
+/**
+ * Calculates the price of the order.
+ * 
+ * @param quantity is the number of cups of coffee ordered
+ */
+private void calculatePrice(int quantity) {
+    int price = quantity * 5;
+}
+
 
 private String findTotalTripLength(int distanceOfFirstTrip, int distanceOfSecondTrip, int distanceOfThirdTrip) {
      // Assume we need 2 miles to go to our friend's home (where the trip will start).
@@ -47,3 +56,13 @@ Create a method that specifies the city name and temperature. where we returned 
 private String createWeatherMessage(int temperature, String cityName){
   return "Welcome to " + cityName + " where the temperature is " + temperature + "F";
 }
+or try below
+/**
+     * Calculates the price of the order.
+     *
+     * @param quantity is the number of cups of coffee ordered
+     * @param pricePerCup is the price of one cup of coffee.
+     */
+    private void calculatePrice(int quantity, int pricePerCup) {
+        int price = quantity * pricePerCup;
+    }

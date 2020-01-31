@@ -1,7 +1,19 @@
 Must read topics for android development
 
+------------------------------------Java coding related docs------------------------------------------------------
+
 1. Intent
 https://developer.android.com/reference/android/content/Intent
 
 2. Localization checklist
 https://developer.android.com/distribute/best-practices/launch/localization-checklist?utm_campaign=android_basics&utm_medium=course&utm_source=udacity
+
+
+-------------------Material Design related docs-----------------------------------------------------------
+3.Styles and Themes
+https://developer.android.com/guide/topics/ui/look-and-feel/themes?utm_campaign=android_basics&utm_medium=course&utm_source=udacity
+
+4.Support different screen sizes
+https://developer.android.com/training/multiscreen/screensizes.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#TaskUseSWQuali
+5. Lists(Material Design)
+https://material.io/components/lists/?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#

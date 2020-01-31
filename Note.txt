@@ -5,6 +5,9 @@ Must read topics for android development
 1. Intent
 https://developer.android.com/reference/android/content/Intent
 
+Create a background service:
+https://developer.android.com/training/run-background-service/create-service.html
+
 2. Localization checklist
 https://developer.android.com/distribute/best-practices/launch/localization-checklist?utm_campaign=android_basics&utm_medium=course&utm_source=udacity
 

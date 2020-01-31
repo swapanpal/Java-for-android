@@ -15,5 +15,12 @@ https://developer.android.com/guide/topics/ui/look-and-feel/themes?utm_campaign=
 
 4.Support different screen sizes
 https://developer.android.com/training/multiscreen/screensizes.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#TaskUseSWQuali
+
 5. Lists(Material Design)
 https://material.io/components/lists/?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#
+
+6. Material Design for Android
+https://developer.android.com/guide/topics/ui/look-and-feel?utm_campaign=android_basics&utm_medium=course&utm_source=udacity
+
+7. To learn more about AppCompat
+https://www.youtube.com/watch?v=5Be2mJzP-Uw

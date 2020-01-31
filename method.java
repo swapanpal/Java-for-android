@@ -138,3 +138,34 @@ imageView.setImageResource(R.id.sad);
   textView.setText("Winner");
 imageView.setImageResource(R.id.happy);
 }
+
+// increment and decrement method in Java 'quantity' is global variable
+
+/*
+    This method is called when plus button is clicked
+     */
+    public void increment(View view){
+        // To prevent too many cup of coffee order(more than 100)
+        if (quantity == 100){
+            // Show an error message as a toast
+            Toast.makeText(this, "You cannot have more than 100 coffees", Toast.LENGTH_SHORT).show();
+            // Exit this method early because there's nothing left to do
+            return;
+        }
+        quantity = quantity + 1;
+        displayQuantity(quantity);
+    }
+    /*
+    This method is called when minus button is clicked
+     */
+    public void decrement(View view){
+        // To prevent negative number of coffee order
+        if(quantity == 1){
+            // Show an error message as a toast
+            Toast.makeText(this, "You cannot have less than 1 coffee", Toast.LENGTH_SHORT).show();
+            // Exit this method early because there's nothing left to do
+            return;
+        }
+        quantity = quantity - 1;
+        displayQuantity(quantity);
+    }

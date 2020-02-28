@@ -30,3 +30,6 @@ https://www.youtube.com/watch?v=5Be2mJzP-Uw
 
 8. To learn more about memory allocation with Memory Profiler
 https://developer.android.com/studio/profile/memory-profiler?utm_campaign=android_basics&utm_medium=course&utm_source=udacity
+
+9. To learn more about  ListView and ArrayAdapter.
+https://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView

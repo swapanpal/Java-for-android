@@ -27,3 +27,6 @@ https://developer.android.com/guide/topics/ui/look-and-feel?utm_campaign=android
 
 7. To learn more about AppCompat
 https://www.youtube.com/watch?v=5Be2mJzP-Uw
+
+8. To learn more about memory allocation with Memory Profiler
+https://developer.android.com/studio/profile/memory-profiler?utm_campaign=android_basics&utm_medium=course&utm_source=udacity

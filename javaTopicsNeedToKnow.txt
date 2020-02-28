@@ -8,3 +8,4 @@ Custom Class
 Array----- Udacity recomanded tutorial site   https://codingbat.com/java/Array-1
 List------https://developer.android.com/reference/java/util/List.html
 ArrayList-------https://developer.android.com/reference/java/util/ArrayList.html
+                https://beginnersbook.com/2013/12/java-arraylist/

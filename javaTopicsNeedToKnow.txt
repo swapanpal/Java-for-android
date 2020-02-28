@@ -4,5 +4,7 @@ Operators
 conditional Statement
 method
 class
+Custom Class
 Array----- Udacity recomanded tutorial site   https://codingbat.com/java/Array-1
+List
 ArrayList

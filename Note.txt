@@ -33,3 +33,10 @@ https://developer.android.com/studio/profile/memory-profiler?utm_campaign=androi
 
 9. To learn more about  ListView and ArrayAdapter.
 https://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView
+
+10. Example of Using an ArrayAdapter with ListView
+https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListView
+
+11.Create a List with RecyclerView
+https://developer.android.com/guide/topics/ui/layout/recyclerview
+

@@ -40,3 +40,6 @@ https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListV
 11.Create a List with RecyclerView
 https://developer.android.com/guide/topics/ui/layout/recyclerview
 
+12.Tools attributes reference
+https://developer.android.com/studio/write/tool-attributes.html
+

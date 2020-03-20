@@ -1,0 +1,21 @@
+1. Intent
+https://developer.android.com/reference/android/content/Intent
+
+2. Localization checklist
+https://developer.android.com/distribute/best-practices/launch/localization-checklist?utm_campaign=android_basics&utm_medium=course&utm_source=udacity
+
+3. *****************Intent Tutorials*********************************
+https://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call
+
+************* Android Tutorials(Udacity recomended)********************
+https://www.vogella.com/
+
+**********Input events overview***************************
+https://developer.android.com/guide/topics/ui/ui-events.html
+
+
+*********Interface in java with example programs***************
+https://beginnersbook.com/2013/05/java-interface/
+
+*********Accessing your app resources****************
+https://developer.android.com/guide/topics/resources/providing-resources#Accessing

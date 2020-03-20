@@ -19,3 +19,6 @@ https://beginnersbook.com/2013/05/java-interface/
 
 *********Accessing your app resources****************
 https://developer.android.com/guide/topics/resources/providing-resources#Accessing
+
+***********Android - MediaPlayer tutorial(udacity recomended ****************
+https://www.tutorialspoint.com/android/android_mediaplayer.htm

@@ -1,0 +1,2 @@
+Hard task do first
+When you want to add new feature in app, test it in a seperate simple app.

@@ -50,3 +50,6 @@ https://developer.android.com/reference/android/widget/ArrayAdapter.html?utm_sou
 14.App resources overview
 https://developer.android.com/guide/topics/resources/providing-resources.html
 
+15. Android media Player talk on youtube by android team
+https://www.youtube.com/watch?v=XQwe30cZffg
+

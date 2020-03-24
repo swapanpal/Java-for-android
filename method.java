@@ -246,3 +246,17 @@ private void releaseMediaPlayer() {
         mMediaPlayer = null;
     }
 }
+// Clean up MediaPlayer resources according to activity lifecycle
+ @Override
+    protected void onStop() {
+        super.onStop();
+        // When the activity is stopped, release the media player resources because we won't
+        // be playing any more sounds.
+        releaseMediaPlayer();
+    }
+
+
+
+
+
+

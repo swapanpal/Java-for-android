@@ -53,3 +53,9 @@ https://developer.android.com/guide/topics/resources/providing-resources.html
 15. Android media Player talk on youtube by android team
 https://www.youtube.com/watch?v=XQwe30cZffg
 
+16. Managing audio focus
+https://developer.android.com/guide/topics/media-apps/audio-focus
+https://medium.com/google-developers/how-to-properly-handle-audio-interruptions-3a13540d18fa#.jkibca8ml
+
+
+

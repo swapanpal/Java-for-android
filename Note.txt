@@ -56,6 +56,8 @@ https://www.youtube.com/watch?v=XQwe30cZffg
 16. Managing audio focus
 https://developer.android.com/guide/topics/media-apps/audio-focus
 https://medium.com/google-developers/how-to-properly-handle-audio-interruptions-3a13540d18fa#.jkibca8ml
+https://developer.android.com/reference/android/media/AudioManager.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+https://developer.android.com/reference/android/media/AudioManager.OnAudioFocusChangeListener.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
 
 
 

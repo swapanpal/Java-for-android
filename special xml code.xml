@@ -1,4 +1,4 @@
 <!-- 
-show weve when touch the button
+circular ripple animation (show weve when touch the button)
 android:background="?android:attr/selectableItemBackground" 
 -->

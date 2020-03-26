@@ -13,3 +13,7 @@ android:background="?android:attr/selectableItemBackground"
        android:background="?android:attr/selectableItemBackground"
        android:text="@string/category_numbers" />
 </FrameLayout>
+<!--Instead of adding a new view to the layout, in the word list layout, you can add the attribute 
+ on the ListView XML element. With this one line change, the pressed state will be shown on each list item.-->
+
+android:drawSelectorOnTop="true"

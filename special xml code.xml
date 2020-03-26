@@ -2,3 +2,14 @@
 circular ripple animation (show weve when touch the button)
 android:background="?android:attr/selectableItemBackground" 
 -->
+<!-- Example of circular ripple animation, we have to use <FrameLayout to get actual work -->
+<FrameLayout
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:background="@color/category_numbers">
+   <TextView
+       android:id="@+id/numbers"
+       style="@style/CategoryStyle"
+       android:background="?android:attr/selectableItemBackground"
+       android:text="@string/category_numbers" />
+</FrameLayout>

@@ -1,0 +1,4 @@
+<!-- 
+show weve when touch the button
+android:background="?android:attr/selectableItemBackground" 
+-->

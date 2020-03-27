@@ -17,3 +17,15 @@ android:background="?android:attr/selectableItemBackground"
  on the ListView XML element. With this one line change, the pressed state will be shown on each list item.-->
 
 android:drawSelectorOnTop="true"
+<!-- code for action bar, to show actual activity name and back button-->
+<activity android:name=".NumbersActivity"
+            android:label="@string/category_numbers"
+            android:parentActivityName=".MainActivity">
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+<!-- above mention code need to add in Manifest file-->
+
+

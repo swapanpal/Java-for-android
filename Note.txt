@@ -61,3 +61,6 @@ https://developer.android.com/reference/android/media/AudioManager.OnAudioFocusC
 
 17. https://material.io/resources/icons/?icon=play_arrow&style=baseline
 
+18. Android Developers Blog
+https://android-developers.googleblog.com/?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+

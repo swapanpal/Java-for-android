@@ -28,4 +28,20 @@ android:drawSelectorOnTop="true"
         </activity>
 <!-- above mention code need to add in Manifest file-->
 
+<!--xmlns:tools="http://schemas.android.com/tools"  & tools:text="8.9" this code show in project pen but not when run the code -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/magnitude"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        tools:text="8.9"/>
+  </LinearLayout>
+
 

@@ -40,5 +40,8 @@ https://www.youtube.com/watch?v=zQekzaAgIlQ
 
 ----------- Fragment-----------------
 
+--------------------------Drawable related Tutorial-------------------------------
+https://guides.codepath.com/android/Drawables
+
 
 

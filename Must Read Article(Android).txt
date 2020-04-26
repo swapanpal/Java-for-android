@@ -46,5 +46,8 @@ https://www.youtube.com/watch?v=zQekzaAgIlQ
 --------------------------Drawable related Tutorial-------------------------------
 https://guides.codepath.com/android/Drawables
 
+------------------------Debug your app----------------------------------------
+https://developer.android.com/studio/debug
+
 
 
